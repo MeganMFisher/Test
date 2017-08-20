@@ -1,0 +1,5 @@
+
+Host github-username 
+HostName github.com 
+User MeganMFisher 
+IdentityFile ~/.ssh/id_rsa_MEGAN
